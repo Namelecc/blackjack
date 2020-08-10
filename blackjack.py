@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug  6 16:00:42 2020
-
-@author: geoffreycdavis
-"""
 
 import random
 import queue
